@@ -1,5 +1,13 @@
 # Design Patterns
 
+- [Singleton](#singleton)
+  - [Example](#example)
+  - [Overview](#overview)
+- [Strategy](#strategy)
+  - [Review](#review)
+  - [Fixes](#fixes)
+
+
 ## Singleton
 
 - Let you access your object from anywhere in your application
